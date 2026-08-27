@@ -1,1 +1,1 @@
-first line
+method1
