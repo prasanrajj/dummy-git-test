@@ -1,2 +1,2 @@
-first line
+method1
 method2
